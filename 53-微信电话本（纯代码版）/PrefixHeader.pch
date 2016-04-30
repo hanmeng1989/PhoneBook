@@ -1,0 +1,28 @@
+//
+//  PrefixHeader.pch
+//  53-微信电话本（纯代码版）
+//
+//  Created by 韩萌 on 16/4/29.
+//  Copyright © 2016年 hanmeng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef DEBUG
+
+#define HMLog(...) NSLog(__VA_ARGS__) // 替换系统的打印
+
+#else
+
+#define HMLog(...)        // 如果是发布版本,保证不报错
+
+#endif
+
+#import "Masonry.h"   //导入第三方框架
+#import "MBProgressHUD.h"  //导入HUD框架
+
+#endif /* PrefixHeader_pch */
