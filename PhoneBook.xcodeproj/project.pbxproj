@@ -11,8 +11,6 @@
 		EEF1011E1CD35A6500473300 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EEF1011D1CD35A6500473300 /* AppDelegate.m */; };
 		EEF101261CD35A6500473300 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEF101251CD35A6500473300 /* Assets.xcassets */; };
 		EEF101291CD35A6500473300 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEF101271CD35A6500473300 /* LaunchScreen.storyboard */; };
-		EEF101341CD35A6500473300 /* _3____________Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = EEF101331CD35A6500473300 /* _3____________Tests.m */; };
-		EEF1013F1CD35A6500473300 /* _3____________UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EEF1013E1CD35A6500473300 /* _3____________UITests.m */; };
 		EEF101671CD35ABE00473300 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = EEF1014F1CD35ABE00473300 /* MASCompositeConstraint.m */; };
 		EEF101681CD35ABE00473300 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = EEF101521CD35ABE00473300 /* MASConstraint.m */; };
 		EEF101691CD35ABE00473300 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = EEF101541CD35ABE00473300 /* MASConstraintMaker.m */; };
@@ -52,19 +50,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EEF101161CD35A6500473300 /* 53-微信电话本（纯代码版）.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "53-微信电话本（纯代码版）.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEF101161CD35A6500473300 /* PhoneBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhoneBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEF1011A1CD35A6500473300 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EEF1011C1CD35A6500473300 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EEF1011D1CD35A6500473300 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		EEF101251CD35A6500473300 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEF101281CD35A6500473300 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEF1012A1CD35A6500473300 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EEF1012F1CD35A6500473300 /* 53-微信电话本（纯代码版）Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "53-微信电话本（纯代码版）Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EEF101331CD35A6500473300 /* _3____________Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_3____________Tests.m"; sourceTree = "<group>"; };
-		EEF101351CD35A6500473300 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EEF1013A1CD35A6500473300 /* 53-微信电话本（纯代码版）UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "53-微信电话本（纯代码版）UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EEF1013E1CD35A6500473300 /* _3____________UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_3____________UITests.m"; sourceTree = "<group>"; };
-		EEF101401CD35A6500473300 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEF1012F1CD35A6500473300 /* PhoneBook.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhoneBook.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEF1013A1CD35A6500473300 /* PhoneBook.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhoneBook.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEF1014E1CD35ABE00473300 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		EEF1014F1CD35ABE00473300 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
 		EEF101501CD35ABE00473300 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
@@ -138,9 +132,7 @@
 		EEF1010D1CD35A6500473300 = {
 			isa = PBXGroup;
 			children = (
-				EEF101181CD35A6500473300 /* 53-微信电话本（纯代码版） */,
-				EEF101321CD35A6500473300 /* 53-微信电话本（纯代码版）Tests */,
-				EEF1013D1CD35A6500473300 /* 53-微信电话本（纯代码版）UITests */,
+				EEF101181CD35A6500473300 /* PhoneBook */,
 				EEF101171CD35A6500473300 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -148,14 +140,14 @@
 		EEF101171CD35A6500473300 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EEF101161CD35A6500473300 /* 53-微信电话本（纯代码版）.app */,
-				EEF1012F1CD35A6500473300 /* 53-微信电话本（纯代码版）Tests.xctest */,
-				EEF1013A1CD35A6500473300 /* 53-微信电话本（纯代码版）UITests.xctest */,
+				EEF101161CD35A6500473300 /* PhoneBook.app */,
+				EEF1012F1CD35A6500473300 /* PhoneBook.xctest */,
+				EEF1013A1CD35A6500473300 /* PhoneBook.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EEF101181CD35A6500473300 /* 53-微信电话本（纯代码版） */ = {
+		EEF101181CD35A6500473300 /* PhoneBook */ = {
 			isa = PBXGroup;
 			children = (
 				EEF6BE951CD4E17300105774 /* Views */,
@@ -165,6 +157,7 @@
 				EEF1014C1CD35A9500473300 /* Libs */,
 				EEF101191CD35A6500473300 /* Supporting Files */,
 			);
+			name = PhoneBook;
 			path = "53-微信电话本（纯代码版）";
 			sourceTree = "<group>";
 		};
@@ -178,24 +171,6 @@
 				EEF101711CD35AE700473300 /* PrefixHeader.pch */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		EEF101321CD35A6500473300 /* 53-微信电话本（纯代码版）Tests */ = {
-			isa = PBXGroup;
-			children = (
-				EEF101331CD35A6500473300 /* _3____________Tests.m */,
-				EEF101351CD35A6500473300 /* Info.plist */,
-			);
-			path = "53-微信电话本（纯代码版）Tests";
-			sourceTree = "<group>";
-		};
-		EEF1013D1CD35A6500473300 /* 53-微信电话本（纯代码版）UITests */ = {
-			isa = PBXGroup;
-			children = (
-				EEF1013E1CD35A6500473300 /* _3____________UITests.m */,
-				EEF101401CD35A6500473300 /* Info.plist */,
-			);
-			path = "53-微信电话本（纯代码版）UITests";
 			sourceTree = "<group>";
 		};
 		EEF1014C1CD35A9500473300 /* Libs */ = {
@@ -296,9 +271,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EEF101151CD35A6500473300 /* 53-微信电话本（纯代码版） */ = {
+		EEF101151CD35A6500473300 /* PhoneBook */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EEF101431CD35A6500473300 /* Build configuration list for PBXNativeTarget "53-微信电话本（纯代码版）" */;
+			buildConfigurationList = EEF101431CD35A6500473300 /* Build configuration list for PBXNativeTarget "PhoneBook" */;
 			buildPhases = (
 				EEF101121CD35A6500473300 /* Sources */,
 				EEF101131CD35A6500473300 /* Frameworks */,
@@ -308,14 +283,14 @@
 			);
 			dependencies = (
 			);
-			name = "53-微信电话本（纯代码版）";
+			name = PhoneBook;
 			productName = "53-微信电话本（纯代码版）";
-			productReference = EEF101161CD35A6500473300 /* 53-微信电话本（纯代码版）.app */;
+			productReference = EEF101161CD35A6500473300 /* PhoneBook.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EEF1012E1CD35A6500473300 /* 53-微信电话本（纯代码版）Tests */ = {
+		EEF1012E1CD35A6500473300 /* PhoneBookTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EEF101461CD35A6500473300 /* Build configuration list for PBXNativeTarget "53-微信电话本（纯代码版）Tests" */;
+			buildConfigurationList = EEF101461CD35A6500473300 /* Build configuration list for PBXNativeTarget "PhoneBookTests" */;
 			buildPhases = (
 				EEF1012B1CD35A6500473300 /* Sources */,
 				EEF1012C1CD35A6500473300 /* Frameworks */,
@@ -326,14 +301,14 @@
 			dependencies = (
 				EEF101311CD35A6500473300 /* PBXTargetDependency */,
 			);
-			name = "53-微信电话本（纯代码版）Tests";
+			name = PhoneBookTests;
 			productName = "53-微信电话本（纯代码版）Tests";
-			productReference = EEF1012F1CD35A6500473300 /* 53-微信电话本（纯代码版）Tests.xctest */;
+			productReference = EEF1012F1CD35A6500473300 /* PhoneBook.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EEF101391CD35A6500473300 /* 53-微信电话本（纯代码版）UITests */ = {
+		EEF101391CD35A6500473300 /* PhoneBookUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EEF101491CD35A6500473300 /* Build configuration list for PBXNativeTarget "53-微信电话本（纯代码版）UITests" */;
+			buildConfigurationList = EEF101491CD35A6500473300 /* Build configuration list for PBXNativeTarget "PhoneBookUITests" */;
 			buildPhases = (
 				EEF101361CD35A6500473300 /* Sources */,
 				EEF101371CD35A6500473300 /* Frameworks */,
@@ -344,9 +319,9 @@
 			dependencies = (
 				EEF1013C1CD35A6500473300 /* PBXTargetDependency */,
 			);
-			name = "53-微信电话本（纯代码版）UITests";
+			name = PhoneBookUITests;
 			productName = "53-微信电话本（纯代码版）UITests";
-			productReference = EEF1013A1CD35A6500473300 /* 53-微信电话本（纯代码版）UITests.xctest */;
+			productReference = EEF1013A1CD35A6500473300 /* PhoneBook.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -371,7 +346,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EEF101111CD35A6500473300 /* Build configuration list for PBXProject "53-微信电话本（纯代码版）" */;
+			buildConfigurationList = EEF101111CD35A6500473300 /* Build configuration list for PBXProject "PhoneBook" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -384,9 +359,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EEF101151CD35A6500473300 /* 53-微信电话本（纯代码版） */,
-				EEF1012E1CD35A6500473300 /* 53-微信电话本（纯代码版）Tests */,
-				EEF101391CD35A6500473300 /* 53-微信电话本（纯代码版）UITests */,
+				EEF101151CD35A6500473300 /* PhoneBook */,
+				EEF1012E1CD35A6500473300 /* PhoneBookTests */,
+				EEF101391CD35A6500473300 /* PhoneBookUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -450,7 +425,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEF101341CD35A6500473300 /* _3____________Tests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -458,7 +432,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEF1013F1CD35A6500473300 /* _3____________UITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,12 +440,12 @@
 /* Begin PBXTargetDependency section */
 		EEF101311CD35A6500473300 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EEF101151CD35A6500473300 /* 53-微信电话本（纯代码版） */;
+			target = EEF101151CD35A6500473300 /* PhoneBook */;
 			targetProxy = EEF101301CD35A6500473300 /* PBXContainerItemProxy */;
 		};
 		EEF1013C1CD35A6500473300 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EEF101151CD35A6500473300 /* 53-微信电话本（纯代码版） */;
+			target = EEF101151CD35A6500473300 /* PhoneBook */;
 			targetProxy = EEF1013B1CD35A6500473300 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -579,7 +552,7 @@
 				INFOPLIST_FILE = "53-微信电话本（纯代码版）/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hm.-3------------";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = PhoneBook;
 			};
 			name = Debug;
 		};
@@ -591,7 +564,7 @@
 				INFOPLIST_FILE = "53-微信电话本（纯代码版）/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hm.-3------------";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = PhoneBook;
 			};
 			name = Release;
 		};
@@ -602,8 +575,8 @@
 				INFOPLIST_FILE = "53-微信电话本（纯代码版）Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hm.-3------------Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/53-微信电话本（纯代码版）.app/53-微信电话本（纯代码版）";
+				PRODUCT_NAME = PhoneBook;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PhoneBook.app/PhoneBook";
 			};
 			name = Debug;
 		};
@@ -614,8 +587,8 @@
 				INFOPLIST_FILE = "53-微信电话本（纯代码版）Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hm.-3------------Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/53-微信电话本（纯代码版）.app/53-微信电话本（纯代码版）";
+				PRODUCT_NAME = PhoneBook;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PhoneBook.app/PhoneBook";
 			};
 			name = Release;
 		};
@@ -625,7 +598,7 @@
 				INFOPLIST_FILE = "53-微信电话本（纯代码版）UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hm.-3------------UITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = PhoneBook;
 				TEST_TARGET_NAME = "53-微信电话本（纯代码版）";
 			};
 			name = Debug;
@@ -636,7 +609,7 @@
 				INFOPLIST_FILE = "53-微信电话本（纯代码版）UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hm.-3------------UITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = PhoneBook;
 				TEST_TARGET_NAME = "53-微信电话本（纯代码版）";
 			};
 			name = Release;
@@ -644,7 +617,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EEF101111CD35A6500473300 /* Build configuration list for PBXProject "53-微信电话本（纯代码版）" */ = {
+		EEF101111CD35A6500473300 /* Build configuration list for PBXProject "PhoneBook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EEF101411CD35A6500473300 /* Debug */,
@@ -653,7 +626,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EEF101431CD35A6500473300 /* Build configuration list for PBXNativeTarget "53-微信电话本（纯代码版）" */ = {
+		EEF101431CD35A6500473300 /* Build configuration list for PBXNativeTarget "PhoneBook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EEF101441CD35A6500473300 /* Debug */,
@@ -662,7 +635,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EEF101461CD35A6500473300 /* Build configuration list for PBXNativeTarget "53-微信电话本（纯代码版）Tests" */ = {
+		EEF101461CD35A6500473300 /* Build configuration list for PBXNativeTarget "PhoneBookTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EEF101471CD35A6500473300 /* Debug */,
@@ -671,7 +644,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EEF101491CD35A6500473300 /* Build configuration list for PBXNativeTarget "53-微信电话本（纯代码版）UITests" */ = {
+		EEF101491CD35A6500473300 /* Build configuration list for PBXNativeTarget "PhoneBookUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EEF1014A1CD35A6500473300 /* Debug */,

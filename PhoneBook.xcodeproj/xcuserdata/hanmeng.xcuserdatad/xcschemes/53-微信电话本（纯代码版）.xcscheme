@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EEF101151CD35A6500473300"
-               BuildableName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.app"
-               BlueprintName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;"
-               ReferencedContainer = "container:53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.xcodeproj">
+               BuildableName = "PhoneBook.app"
+               BlueprintName = "PhoneBook"
+               ReferencedContainer = "container:PhoneBook.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EEF1012E1CD35A6500473300"
-               BuildableName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;Tests.xctest"
-               BlueprintName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;Tests"
-               ReferencedContainer = "container:53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.xcodeproj">
+               BuildableName = "PhoneBook.xctest"
+               BlueprintName = "PhoneBookTests"
+               ReferencedContainer = "container:PhoneBook.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EEF101391CD35A6500473300"
-               BuildableName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;UITests.xctest"
-               BlueprintName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;UITests"
-               ReferencedContainer = "container:53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.xcodeproj">
+               BuildableName = "PhoneBook.xctest"
+               BlueprintName = "PhoneBookUITests"
+               ReferencedContainer = "container:PhoneBook.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EEF101151CD35A6500473300"
-            BuildableName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.app"
-            BlueprintName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;"
-            ReferencedContainer = "container:53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.xcodeproj">
+            BuildableName = "PhoneBook.app"
+            BlueprintName = "PhoneBook"
+            ReferencedContainer = "container:PhoneBook.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EEF101151CD35A6500473300"
-            BuildableName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.app"
-            BlueprintName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;"
-            ReferencedContainer = "container:53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.xcodeproj">
+            BuildableName = "PhoneBook.app"
+            BlueprintName = "PhoneBook"
+            ReferencedContainer = "container:PhoneBook.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EEF101151CD35A6500473300"
-            BuildableName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.app"
-            BlueprintName = "53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;"
-            ReferencedContainer = "container:53-&#x5fae;&#x4fe1;&#x7535;&#x8bdd;&#x672c;&#xff08;&#x7eaf;&#x4ee3;&#x7801;&#x7248;&#xff09;.xcodeproj">
+            BuildableName = "PhoneBook.app"
+            BlueprintName = "PhoneBook"
+            ReferencedContainer = "container:PhoneBook.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
